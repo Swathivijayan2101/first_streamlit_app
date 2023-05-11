@@ -3,11 +3,9 @@ import streamlit
 streamlit.title('My Parents New Helathy Dinner')
 
 streamlit.header('Breakfast Menu')
-streamlit.text('French Toast - Milk')
-streamlit.text('Vegetable Salad - Boiled Egg - Milk')
-streamlit.text('Sandwich - Spinach - Milk')
+streamlit.text('🥣Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞Avacado Toast')
 
-streamlit.header('Lunch Menu')
-streamlit.text('Chicken Briyani')
-streamlit.text('Rice - Dhal')
-streamlit.text('Mutton Briyani')
+
